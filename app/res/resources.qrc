@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dark.json</file>
+        <file>light.json</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
